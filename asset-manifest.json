@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/intarsia/static/css/main.bd7dd95e.chunk.css",
+    "main.css": "/intarsia/static/css/main.fae3557e.chunk.css",
     "main.js": "/intarsia/static/js/main.d943f304.chunk.js",
     "main.js.map": "/intarsia/static/js/main.d943f304.chunk.js.map",
     "runtime-main.js": "/intarsia/static/js/runtime-main.371df0c9.js",
@@ -10,7 +10,7 @@
     "static/js/3.c10ece29.chunk.js": "/intarsia/static/js/3.c10ece29.chunk.js",
     "static/js/3.c10ece29.chunk.js.map": "/intarsia/static/js/3.c10ece29.chunk.js.map",
     "index.html": "/intarsia/index.html",
-    "static/css/main.bd7dd95e.chunk.css.map": "/intarsia/static/css/main.bd7dd95e.chunk.css.map",
+    "static/css/main.fae3557e.chunk.css.map": "/intarsia/static/css/main.fae3557e.chunk.css.map",
     "static/js/2.b4a34529.chunk.js.LICENSE.txt": "/intarsia/static/js/2.b4a34529.chunk.js.LICENSE.txt",
     "static/media/birds.6f30c868.jpeg": "/intarsia/static/media/birds.6f30c868.jpeg",
     "static/media/brosh.90a22d31.jpeg": "/intarsia/static/media/brosh.90a22d31.jpeg",
@@ -56,7 +56,7 @@
   "entrypoints": [
     "static/js/runtime-main.371df0c9.js",
     "static/js/2.b4a34529.chunk.js",
-    "static/css/main.bd7dd95e.chunk.css",
+    "static/css/main.fae3557e.chunk.css",
     "static/js/main.d943f304.chunk.js"
   ]
 }
