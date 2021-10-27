@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/intarsia/static/css/main.fae3557e.chunk.css",
-    "main.js": "/intarsia/static/js/main.d943f304.chunk.js",
-    "main.js.map": "/intarsia/static/js/main.d943f304.chunk.js.map",
+    "main.js": "/intarsia/static/js/main.1ecea479.chunk.js",
+    "main.js.map": "/intarsia/static/js/main.1ecea479.chunk.js.map",
     "runtime-main.js": "/intarsia/static/js/runtime-main.371df0c9.js",
     "runtime-main.js.map": "/intarsia/static/js/runtime-main.371df0c9.js.map",
     "static/js/2.b4a34529.chunk.js": "/intarsia/static/js/2.b4a34529.chunk.js",
@@ -57,6 +57,6 @@
     "static/js/runtime-main.371df0c9.js",
     "static/js/2.b4a34529.chunk.js",
     "static/css/main.fae3557e.chunk.css",
-    "static/js/main.d943f304.chunk.js"
+    "static/js/main.1ecea479.chunk.js"
   ]
 }
